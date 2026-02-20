@@ -32,7 +32,7 @@ Since this project focuses on **Database Systems**, significant engineering went
 2.  **Normalization:** Applied database normalization (up to 3rd Normal Form) to reduce redundancy and ensure data integrity.
 3.  **SQL Implementation:** utilized complex SQL queries for data retrieval, updates, and tracking user statistics.
 
-> *[Optional: Insert a screenshot of your ER Diagram here]*
+> *[assets/ER digram.png]*
 
 ## 📱 App Screenshots
 | Login Screen | Dashboard | Recycling Map |
