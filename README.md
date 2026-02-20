@@ -37,9 +37,8 @@ Since this project focuses on **Database Systems**, significant engineering went
 ## 📱 App Screenshots
 | Login Screen | Dashboard | Recycling Map |
 |:---:|:---:|:---:|
-| ![Login](path-to-image) | ![Dashboard](path-to-image) | ![Map](path-to-image) |
+| ![Login](assets/login.png) | ![Dashboard](assets/Dashboard.png) | ![Map](assets/Add collection.png) |
 
-*(Note: Upload screenshots to your repo and replace "path-to-image" with the file links)*
 
 ## 🚀 How to Run
 1.  **Clone the Repository:**
