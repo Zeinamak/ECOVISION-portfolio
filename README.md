@@ -11,6 +11,11 @@
 
 This project was built to demonstrate a complete software solution, combining a robust **Relational Database** backend with a user-friendly **Android Mobile** frontend.
 
+## 🎥 Project Demo
+Click the image below to watch the application walkthrough:
+
+[![Watch the video](video_thumb.png)](PASTE_YOUR_YOUTUBE_LINK_HERE)
+
 ## ✨ Key Features
 *   **♻️ Waste Tracking:** Users can log different types of waste (plastic, paper, glass) to track their disposal habits.
 *   **📍 Recycling Locator:** Helps users find the nearest recycling centers and disposal points.
@@ -39,18 +44,6 @@ Since this project focuses on **Database Systems**, significant engineering went
 |:---:|:---:|:---:|
 | ![Login](assets/login.png) | ![Dashboard](assets/Dashboard.png) | ![Add Collection](assets/Add.png) |
 
-
-## 🚀 How to Run
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/yourusername/EcoVision.git
-    ```
-2.  **Database Setup:**
-    *   Import the provided `database_schema.sql` file into your MySQL server.
-    *   Update the database connection string in the Android project configuration.
-3.  **Run the App:**
-    *   Open the project in **Android Studio**.
-    *   Build and run on an Emulator or Physical Device.
 
 ## 👨‍💻 Contributors
 *   **ZEINA** - *Mobile App Development & Database Design*
