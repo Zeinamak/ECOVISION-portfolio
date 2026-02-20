@@ -11,10 +11,12 @@
 
 This project was built to demonstrate a complete software solution, combining a robust **Relational Database** backend with a user-friendly **Android Mobile** frontend.
 
-## 🎥 Project Demo
-Click the image below to watch the application walkthrough:
+## 🎥 Application Demo
+> **Watch the full workflow: Login ➝ Manager Dashboard ➝  Analytics Dashboard ➝ Add Collection Dashboard**
 
-[![Watch the video](video_thumb.png)](PASTE_YOUR_YOUTUBE_LINK_HERE)
+https://github.com/user-attachments/assets/b74fcad9-61db-421f-bc43-28648b3b7777
+
+*Note: This video demonstrates the live functionality of the app running on an Android emulator, showcasing the database integration and real-time updates.*
 
 ## ✨ Key Features
 *   **♻️ Waste Tracking:** Users can log different types of waste (plastic, paper, glass) to track their disposal habits.
