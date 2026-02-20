@@ -46,7 +46,15 @@ Since this project focuses on **Database Systems**, significant engineering went
 |:---:|:---:|:---:|
 | ![Login](assets/login.png) | ![Dashboard](assets/Dashboard.png) | ![Add Collection](assets/Add.png) |
 
+## 🔒 Source Code Availability
+This project was developed as part of a university curriculum. To maintain academic integrity and prevent plagiarism, **the source code (Java/XML) is kept in a private repository.**
 
+However, the **Database Design (ER Diagram)**, **User Interface**, and **Application Logic** are fully documented above.
+
+I am happy to:
+*   Walk through the codebase during a live interview.
+*   Provide specific code snippets (e.g., SQL queries, Adapter logic) upon request.
+  
 ## 👨‍💻 Contributors
 *   **ZEINA** - *Mobile App Development & Database Design*
 
